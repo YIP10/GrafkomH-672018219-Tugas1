@@ -1,4 +1,4 @@
-# ShipWithObject_Opengl
+# GrafkomH-672018219-Tugas1 ShipWithObject_Opengl
 Opengl Project using Glut create Ship and another object
 
 
